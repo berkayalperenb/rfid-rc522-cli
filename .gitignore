@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arduino derleme çıktıları
+*.hex
+*.elf
+*.bin
+
+# VS Code / Sistem
+.vscode/
+.DS_Store
+Thumbs.db
